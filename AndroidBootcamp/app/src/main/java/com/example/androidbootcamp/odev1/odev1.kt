@@ -3,9 +3,6 @@ package com.example.androidbootcamp.odev1
 import java.util.Date
 
 fun main() {
-    println("Hello, world!!!")
-    println("Merhaba")
-
     //-------------  1 ----------//
     val sehir:String
     sehir ="Adana"
